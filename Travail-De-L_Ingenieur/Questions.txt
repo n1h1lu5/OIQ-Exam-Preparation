@@ -9,3 +9,92 @@ MANDAT DE L'INGENIEUR
 
     Il s'agit de l'ensemble des services ou des travaux à exécuter pendant la réalisation d'un projet ou d'un marché.
 
+- Quelles sont les raisons du mandat écrit?
+    Défninir les obligations, les limites et les contraintes de l'ingénieur, ainsi que les attentes du client.
+
+- Quels sont les deux risques face auxquelles l'ingénieur s'expose?
+    Le premier concerne la pratique: le respect des règles de l'art et l'application rigoureuse des normes liées au domaine
+
+    Le second porte sur l'aspect contractuel (respect des échéances, du budget, de ce ce qui a été demandé)
+        - Quelles sont les conséquences pour l'ingénieur si le mandat n'existe pas?
+            Il est plus vulnérable en cas de réclamations
+
+- Le mandat répond aussi aux exigences liées à l'article 2.01 du Règlement sur la tenue des dossiers et des cabinets de consultation des ingénieurs, qu'est-ce que cela implique?
+    Que l'ingénieur doit tenir un registre de ses mandats dans lequel apparaissent:
+        Les coordonnées du client
+        La date de l'entente
+        Une description du mandat
+        Les tâches accomplies
+        Les honoraires facturés et payés
+        Les échanges relatifs aux rapports, plans, etc
+        Les modifications apportées au mandat initial
+
+- Qu'est-ce qui a préséance sur tout contrat?
+    Les obligations liées par les lois et réglements relatif à la profession, par example le code de déontologie des ingénieurs
+
+- Quelles sont les deux types de mandats?
+    Mandat de pratique privée et de pratique générale
+
+    - Que veut dire pratique privé?
+        Ing contractuels et en génie-conseil, qui offrent des services de consultation
+
+- Liste et décrit les éléments de base d'un mandat clair.
+    Désignation du client
+        Important au moment de déterminer qui est le véritable client.
+    La description des travaux
+        Permet au client de vérifier si ses attentes ont été bien comprises et prendre conscience de l'ampleur du travail
+    Le calendrier
+        Les étapes du projet et le temps prévus pour chaque étape (sans date précise)
+    Les honoraires
+        Mode de facturation. Les honoraires sont justes et raisonnables s'ils sont justifiés par les circonstances:
+            Le temps du mandat
+            Difficulté et importance du mandat
+            Prestation de services inhabituels ou exigeant une compétance exceptionnelles
+            Responsabilité assumée
+        Intérêts et pénalité pour sommes dues
+    Les experts et les autres services externes
+        Le client prend conscience de la complexité du projet
+        Code de déontologie: l'ing doit obtenir l'autorisation du client avant de retenir les services d'un expert
+    Les biens livrables
+        Aussi: droit d'auteur et propriété intellectuelle
+
+- Différences entre un contrat simple et complexe?
+    Simple: une lettre peut être suffisante
+    Complexe: un avocat peut être nécessaire
+
+- Le mandat de l'ingénieur en pratique générale concerne qui?
+    Pas du génie-conseil, par example, une entreprise de fabrication, un ministère
+
+- Qu'est-ce qui différencie l'ing des autres employé?
+    Sont autonomie et sa responsabilité professionnelle
+        Code déontologie: faire appel à des expert losqu'il n'A pas les compétances
+
+CONTRATS
+--------
+
+ANALYSE
+-------
+
+CONCEPTION
+----------
+
+SURVEILLANCE DE LA REALISATION DES TRAVAUX
+------------------------------------------
+
+EXPLOITATION
+------------
+
+TENUE DE DOSSIERS
+-----------------
+
+ENVIRONNEMENT ET DEVELOPPEMENT DURABLE
+--------------------------------------
+
+GESTION DE PROJETS
+------------------
+
+GESTION EQUIPE ET LE DROIT DU TRAVAIL
+-------------------------------------
+
+GESTION DES RISQUES
+-------------------
