@@ -72,6 +72,75 @@ MANDAT DE L'INGENIEUR
 CONTRATS
 --------
 
+- Quelles sont les trois types de contrats pour un ing?
+    Contrat de services ou d'entreprise
+    Le contrat de travail
+    Le contrat de mandat
+
+- Est-il possible d'avoir formation d'un contrat par vois orale?
+    Oui, sauf si la loi le prescris
+
+- Vrai ou faux, un contrat ne concerne pas les tiers, sauf si prévus par la loi?
+    Vrai
+
+- Faut-il envoyer une mise en demeure avant d'intenter des recours?
+    Oui, une mise en demeur accorde un délai suffisant pour s'acquiter de ses obligations
+
+- Qu'est-ce qui aide les tribunaux à interpréter le contrat?
+    Le code civile du Québec prévoit plusieurs règles
+    Dans le doute, le contrat sera interprété en faveur de celui qui s'est engagé à remplir l'obligation
+
+- Qu'est-ce qu'un contrat de travail?
+    Contrat qui lie l'ing à un employeur.
+
+- Quelles sont les régles additonnelles à un contrat normal dans un contrat de travail?
+    Article 2085 du code civil du Québec: une personne s'oblige, moyennant rémunération, à effectuer un travail sous la direction d'un employeur
+
+- Est-ce que les obligations déontologique passent avant le contrat de travail?
+    Oui
+    - Le professionnel répond toujours personnellement de ses actes fautifs sur le plan déontologique
+
+- Vrai ou faux, si l'employé continue de travailler pendant 5 jours ou plus après échéance du contrat sans oposition de l'emploeyur, son contrat est renouvelé pour une durée indéterminée.
+    Vrai
+
+- Quelles sont les obligations de l'employeur?
+    Fournir travail et salaire, protéger la santé, sécurité et dignité des employés.
+
+- Quelles sont les obligations de l'employé?
+    Exécuter travail avec prudence et diligence, agir avec loyauté (pas mentionné dans le code civil, mais l'ing doit agir au mieux des intérêts de leur client)
+
+- Est-ce que la vente d'une entreprise met fin au contrat de travail?
+    Non
+
+- Qu'est-ce que le contrat d'entreprise?
+    Celui par lequel une personne s'engage envers une autre personne à réaliser un ouvrage ou fournir un service moyennant un prix.
+    Diffère du contrat de travail car l'entrepreneur d'est pas subbordonnés à leur client, peut refuser que le client se mêle de l'exécution du contrat
+
+- L'obligation de renseigner ne vise que l'ingénieur, pas le client?
+    Oui
+
+- Quelle est l'autre obligation de l'ingénieur face à son client?
+    Une obligation de conseil. (Code de déontologie)
+
+- Dans quelle mesure le client paie plus que prévu?
+    Prix estimé: augmentation provient de dépenses non prévisibles.
+    Par forfait: le prix reste le même
+
+- Le client peut résilier le contrat quand il veut?
+    Oui, mais il doit dédommager l'ing pour le préjudice.
+
+- L'ing peut résilier le contrat?
+    Non, sauf motifs sérieux. Malgré tout, un dédommagement pourrait être obligatoire.
+
+    Dans les deux cas de résiliation, les différence d'honorraire devront être remboursées
+
+- Contrat de mandat est?
+    le client donne le pouvoir de représenter dans l'accomplissement d'un acte juridique avec un tiers au membre qui s'oblige à exerser. (Acte juridique: créer, modifier, éteindre un droit)
+    Ex: entrer en relation avec les sous-traitants pour le compte du client
+    - Est-ce que l'ing peut transférer ses pouvoir?
+        Oui, sauf si stipulé autrement. L'ing reste responsable.
+        S'il se fait remplasser sous supervision du client, l'ing n'est responsable que du soin avec lequel il a choisi son substitu et lui a donné des instructions.
+
 ANALYSE
 -------
 
