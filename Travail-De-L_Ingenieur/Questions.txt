@@ -144,6 +144,79 @@ CONTRATS
 ANALYSE
 -------
 
+- Quelles sont les étapes d'une analyse? (dans l'ordre)
+    Définition du problème et des objectifs
+    Établissement des données et des hypothèses
+    Élaboration des solutions
+    Analyse et interprétation des résultats
+    Formulation des conclusions et des recommandations
+
+- Quelle est le but premier de l'analyse?
+    Permettre à l'ingénieur d'émettre un avis éclairé
+
+- Quels sont les principales actions que l'ingénieur doit accomplir lors de la définition du problème?
+    Connaître le contexte
+    Déterminer les objectifs
+    Établir le domaine de validité des contraintes
+    Effectuer une revue technologique
+    Déterminer les paramètres
+    Rédiger le mandat
+
+    - Quelle est le livrable de cette étape?
+        Le mandat
+
+- Est-ce que l'ingénieur doit établir les contraintes ssceptibles d'interférer avec les objectifs du projet?
+    Oui
+
+- Quelles sont les types de contraintes les plus fréquantes?
+    Physique
+    Technique
+    Économique
+    Environmentale
+    Sociale
+    Humaine
+    Légale 
+
+- Qu'est-ce qui permet de bien évaluer l'envergure d'un mandat?
+    Les paramètres et les variables par lesquelles ils sont influencés
+        Variable physique (densité)
+        Dimensionnelle
+        Systémique (temps, vitesse)
+        Adimensionnelles (rapport de dimensions, Mach)
+
+- Vrai ou faux, le mandat sert aussi à aider l'ingénieur s'il devra faire appel à des experts?
+    Vrai
+
+- Que donne l'établissement des données?
+    Une meilleur évaluation des inconnues et des hypothèses plus réalistes
+
+    - Quelles sont les principales étapes ici?
+        Effectuer une recherche bibliographique
+        Collecter les données sources
+        Poser les hypothèses et valider avec le client
+
+    - Le livrable?
+        Aucun, sauf que l'ingénieur possède maintenant notes, données référencées et hypothèses avec leurs méthodes de validation
+
+- Que donne les recherche bibliographique?
+    Des compléments d'information à la revue technologique
+    Permet de localiser les sources de données que l'ingénieur croit pouboir utiliser dans son mandat
+
+- Qu'arrive-t'il lorsqu'il y a un manque de données?
+    L'ingénieur doit poser une ou plusieurs hypothèses de départ qui sont réaliste et prudentes.
+
+- Quelle est l'étape qui solicite le plus sa créativité?
+    Élaborer les solutions
+
+    - Quelles sont les actions principales?
+        Trouver des solutions
+        Décrire les solutions
+        Mener une étude de faisabilité des solutions envisagées
+    - Livrable?
+        Le rapport préliminaire
+
+
+
 CONCEPTION
 ----------
 
