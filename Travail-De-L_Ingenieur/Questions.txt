@@ -215,10 +215,29 @@ ANALYSE
     - Livrable?
         Le rapport préliminaire
 
+- Quelle étape permet la comparaison quantitative ou qualitative des différentes solutions?
+    L'analyse et l'interprétation des résultats
 
+    Fait appel à connaissances techniques et rigueur scientifique.
+
+    - Quelle sont les principales actions?
+        Documenter les mesures les essais et les calculs
+        Présenter les résultats
+        Analyser et interpréter les résultats
+
+    - Le livrable?
+        Le rapport final soumis pour commentaires
+
+- Quelle est l'étape qui représente l'aboutissement de l'analyse destinée à répondre aux besoins du client?
+    Formuler les conclusions et les recommandations.
+
+    - Livrables?
+        Le rapport final
 
 CONCEPTION
 ----------
+
+
 
 SURVEILLANCE DE LA REALISATION DES TRAVAUX
 ------------------------------------------
