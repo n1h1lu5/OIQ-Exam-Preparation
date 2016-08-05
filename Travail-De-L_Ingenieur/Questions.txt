@@ -237,7 +237,89 @@ ANALYSE
 CONCEPTION
 ----------
 
+- Quelle est le but premier de la conception?
+    Permettre de créer un système ou processus répondant à un besoin en tenant compte des contraintes
 
+- Quelles sont les étapes de conception?
+    Analyse des besoins
+    Élaboration du concept
+    Conception préliminaire
+    Conception détaillée
+    Synthèse
+
+- Quelles sont les actions à prendre lors de l'analyse des besoins?
+    Connaître le contexte
+    Déterminer les besoins et les contraintes
+    Déterminer les paramètres de conception
+    Préparer le cahier des charges
+
+    - Livrable?
+        Le cahier des charges (plan de travail)
+            Contient les limites du mandat et des besoins
+
+- Est-il possible de regrouper les paramètres de conception par types ou par besoins?
+    Oui
+
+- Différence entre paramètres et contraintes?
+    Paramètre: temps-température
+    Contrainte: 10 min à 80 Celcius
+
+- Quelles sont les principaux éléments d'un cahier des charges?
+    Mise en situation
+    Mandat
+    État des lieux
+    Description générale du projet
+    Description détaillée des travaux
+    Contraintes techniques particulières
+    Spécifications techniques
+    Liste des biens livrables
+    Clauses administratives
+
+    - Un cahier des charges peu varier selon?
+        Le type de projet
+        Le type de bien
+        Le domaine d'application
+
+- Quelles sont les actions lors de l'élaboration du concept?
+    Revue technologique et des règles de l'art
+    Élaboration des concepts
+    Établissement des démarches préparatoires
+
+    - Livrable?
+        Présentation au client et rapport d'ingénierie conceptuelle
+
+- Le rapport d'ingénérie conceptuelle (élaboration des concepts) contient quelles éléments?
+    Les objectifs, les données de base, les besoins, contraintes
+    Les exigences des codes, normes, réglements
+    Analyse de concepts, appuyé par des calculs sommaires et dessins préliminaires
+    Les coûts et les échéances
+    Le plan de mise en oeuvre du projet
+    Les plans
+    Une grille de comparaison des concepts
+
+- Quelle sont les démarches préparatoires?
+    Disponibilité des espaces, des services, des terrains
+    Demandes de permis, d'accès à des services, d'acquisition de terrains
+
+- Quelles sont les actions liées à la concept préliminaire?
+    La base de la conception
+    Les calculs
+    Les plans
+    La coordination interdisciplinaire
+    La revue de conception
+    Le rapport d'ingénirie préliminaire
+
+    - Livrable?
+        Rapport d'ingénierie préliminaire
+
+- Le cachier des calculs appartient à?
+    L'ing, si l'ing est salarié, il appartient à l'employeur
+
+- La revue de conception à lieu lorsque?
+    Plusieurs domaine sont à contribution
+    LE niveau de complexité
+    Le client le demande
+    QA de l'entreprise l'exigent
 
 SURVEILLANCE DE LA REALISATION DES TRAVAUX
 ------------------------------------------
