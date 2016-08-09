@@ -321,6 +321,48 @@ CONCEPTION
     Le client le demande
     QA de l'entreprise l'exigent
 
+- Vrai ou faux, le rapport d'ingénérie préliminaire peut être utilisé pour la conception?
+    Faux
+
+- Quelles sont les actions reliées à la conception détaillée?
+    La base de la conception
+    Les calculs détaillés
+    Les plan et les devis
+    La revue de conception
+    Le rapport final d'ingénérie
+
+    - Livrables?
+        Les plans et devis pour approbation finale; le rapport final d'ingénérie
+
+- Que sont les calculs détaillés?
+    Les calculs de dimensionnement pour chaque élément de conception nécessaire à la réalisation du projet.
+
+- Quelles situations peut mener à faire vérifier le travail par un autre ingénieur?
+    Exigences du client
+    Exigences des procédure de QA de l'entreprise
+    Complexité du projet
+
+- À qui appartient le cahier de calcul?
+    L'ingénieur, si il est employé, à l'employeur
+
+- Qu'est-ce que le devis?
+    La description qualitative écrite et détaillé des matériaux, équipements, systèmes, spécification techniques et autres caractéristiques touchant le projet
+
+    Les méthodes et procédures ne font pas partie du devis
+
+- Que contient la synthèse?
+    Une estimation des coûts de réalisation
+    La préparation pour la réalisation
+    La documentation finale
+
+- Donne des exemples de préparation pour la réalisation.
+    Formation du personnel
+    Qualification des fournisseurs
+    Obtention des permis de construction
+
+- À quel moment l'ingénieur signe et scelle?
+    À la documentation finale, après avoir receuillis les commentaire finaux du client (Émis pour construction/fabrication/soumission)
+
 SURVEILLANCE DE LA REALISATION DES TRAVAUX
 ------------------------------------------
 
