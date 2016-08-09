@@ -366,6 +366,32 @@ CONCEPTION
 SURVEILLANCE DE LA REALISATION DES TRAVAUX
 ------------------------------------------
 
+- Est-ce qu'il y a un groupe de travail pour la surveillance?
+    Oui, créé en 2012
+
+    - Quels son ses objectifs?
+        Valider les pratiques courantes en matière de surveillance
+        Identifier les problèmes liés au processus de surveillance
+        Proposer des solutions aux probl;mes identifiés
+
+- Quelle est l'objectif du guide de surveillance des travaux (GST)?
+    Aider à mieux comprendre les divers aspects de la surveillance des travaux
+    Outils de référence pour les ingénieurs
+
+    - Le GST permet de mieux comprendre..?
+        Rôles et responsabilités de l'ingénieur surveillant
+        Le cadre réglementaire des activité de surveillance
+        Le processus de surveillance des travaux
+        Rôles et responsabilités de chaque intervenant
+        Processus de communication entre les intervenants
+        Le contenu d'un mandat et d'un plan de surveillance
+        Les actions à mener dans la gestion de la qualité
+
+- Est-ce que le GST vise à remplacer les procédures?
+    Non, il présente des bonnes pratiques
+
+
+
 EXPLOITATION
 ------------
 
