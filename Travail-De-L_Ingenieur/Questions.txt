@@ -390,7 +390,88 @@ SURVEILLANCE DE LA REALISATION DES TRAVAUX
 - Est-ce que le GST vise à remplacer les procédures?
     Non, il présente des bonnes pratiques
 
+- Quelles sont les rôles de:
+    - Maître d'ouvrage?
+        Client, administratif
+    - Maître d'oeuvre
+        Sur un chantier, a la responsabilité de l'exécution de l'ensemble des travaux (Loi sur la santé et la sécurité du travail)
+    - Les ingénieurs
+        Peuvent intervenir à l'étude préparatoire, à la conception, la préparation des plans, la surveillance, etc.
+    - Les fournisseurs
+        Fabrique/fournissent les biens et services définis par l'ingénieur concepteur
+    - L'entrepreneur
+        Prend en charge la réalisation des travaux.
 
+- Quelles sont les responsabilités de:
+    - Maître d'ouvrage?
+        Gérer la réalisation du projet
+        Transmettre l'information pertinente relative au projet
+        Établir les contrats
+    - Ingénieur surveillant
+        Communiquer avec les différents intervenants
+        Faire les visites/vérifications/inspections
+        Signaler événements relatifs à la santé/sécurité/environnement
+        Produire les différents certificats d'Acceptation des travaux
+    - L'entrepreneur
+        Respecter les délais
+        Gérer les coûts, les échéanciers
+        Gérer les travaux
+        Réaliser les travaux définis dans son contrat
+
+- Quelles sont les obligations que l'on retrouve dans le code de déontologie?
+    Envers le public
+    Envers le client
+    Envers la profession
+    Relatives à la publicité et à la représentation profesionnelle
+
+- Quelles sont les obligations qui touchent l'ingénieur surveillant?
+    L'obligation d'avertir lorsque des travaux dangereux sont réalisés
+    Agir avec intégrité
+    Surveillance et direction immédiates
+    Indépendance et désintéressement
+
+- Quelles sont les qualités que doit développer l'ingénieur surveillant?
+    Habile communicateur
+        Communication avec le client. le public
+    Contrôler le projet
+        Observateur, profesionnel et calme
+    Savoir négocier
+
+- Sur quels plans l'ingénieur doit avoir de la facilité à communiquer?
+    Le plan technique
+    Le plan interpersonnel
+
+- Décris les étapes de négociation.
+    La préparation
+    Les discussions
+    Les propositions et les solutions
+    Le compromis
+    La finalisation des accords
+
+    - Quelles sont les qualités du négociateur?
+        Communiquer efficacement
+        Patience
+        Fermeté
+        Esprit de synthèse
+        Gérer le stress
+
+- La surveillance des travaux consiste à?
+    - Analyser les plans pour planifier les tâches d'inspection et de surveillance
+    Faire respecter les exigences techniques
+    Inspecter les travaux
+    Effectuer des examens de conformité
+    Surveiller les essais
+    Surveiller la mise en service des équipements
+    Vérifier la qualité des matériaux et des travaux
+    Donner des diorectives de chantier
+
+- Quelles sont les activité complémentaires auquelles participe l'ingénieur surveillant?
+    Conseiller et informer le maître d'ouvrage
+    Communiquer proativement avec les autres intervenants
+    Participer à la planification des travaux
+    Vérifier et recommander les demandes de paiemenrt
+    Produire les certificats de conformité et de fin des travaux
+    Fermer le dossier
 
 EXPLOITATION
 ------------
