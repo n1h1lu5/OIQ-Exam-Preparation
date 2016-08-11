@@ -473,6 +473,162 @@ SURVEILLANCE DE LA REALISATION DES TRAVAUX
     Produire les certificats de conformité et de fin des travaux
     Fermer le dossier
 
+- Est-ce que l'inspection est un acte réservé?
+    Seulement s'il rapporte au champ de pratique de l'ingénieur
+
+    Il est donc possible de faire une contruction sans qu'un ingénieur surveille
+
+- Quelles sont les avantages de confier la surveillance à un ingénieur?
+    Validation de la conformité de stravaux lors des étapes critiques de construction
+    Évaluation de la qualité réelle des travaux
+    Détection des déviations relatives aux plans
+    Gestion des non-conformités
+    Repérage des défauts de construction
+    Réduction des délais et résolution des problèmes
+
+- Quelle section informe l'ingénieur des lois et réglements relatifs à la protection de l'environnement?
+    Droit de l'environnement
+
+- Quelles sont les principales préoccupations de l'ingénieur surveillant?
+    Santé et sécurité
+        Employés et public
+
+    - Quelles sont les lois qui y sont associé?
+        Loi sur la santé et sécurité au travail
+        Loi sur les accidents du travail et les maladies professionnelles
+        Code criminel
+        Code de sécurité pour les travaux de construction
+        Réglement sur la santé et la sécurité du travail
+
+- Qui est le maître d'oeuvre?
+    Le propriétaire ou le responsable de l'exécution de l'ensemble des travaux
+
+- Est-ce que l'ingénieur surveillant est directement responsable de l'application du programme de prévention?
+    Non, mais le maître d'oeuvre doit lui en donner une copie
+
+    Le maîrte d'oeuvre met en place ce programme
+
+- Est-ce que l'ingénieur surveillant doit s'abstenir de mettre des solution dans son avis de danger?
+    Oui, cela relève du maître d'oeuvre
+
+- Qu'est-ce qui peut aider l'ingénieur surveillant à faire respecter son autorité?
+    Les documents contractuels
+    Différentes normes
+    Le maître d'ouvrage
+    Organisme publics (Régie du bâtiment, CSST)
+
+- Le mandat de surveillance sert à?
+    Définir les obligation, les limites et les contraintes de l'ingénieur
+
+    - Que doit-il comprendre?
+        La description des travaux de surveillance
+        Les calendrier des activité de surveillance
+        La liste des experts et des autres services externes auxquels il faudra avoir recours
+        Les biens livrables
+        Un plan de surveillance préliminaire
+        Une évaluation préliminaire de la criticité des travaux
+
+- Qu'est-ce qui vient influencer le niveau de service?
+    Le type de projet
+    La complexité du projet
+    L'envergure du projet
+    Les risques inhérents à la réalisation
+    Les délais
+
+    À partir de ces facteurs, l'ingénieur établi avec le maître d'ouvrage le type de surveillance (partielle ou permanente)
+
+- Le contenu du mandat décrit la porté selon?
+    Les ouvrages qui seront surveillés
+    Les activité de surveillance prévues
+    Les méthodes qui seront utilisées
+    Le calendrier des activités
+
+- La nature et l'ampleur des activité de surveillance sont influencées par?
+    L'envergure des travaux
+    La complexité des ouvrages
+    Le nombre de disciplines et de métiers
+    L'environnement
+    L'impact d'un défaut de construction
+    L'historique de qualité des travaux
+    Expérience de l'entrepreneur
+
+- Est-ce que le mandat peut servir de plan de surveillance?
+    Seulement pour petit mandat simple
+
+- Quelles sont les tâches de l'ingénieur surveillant?
+    Faire respecter les exigences contractuelles
+    Vérifier qualité des matériaux et des travaux
+    Donner des avis
+    Surveiller la mise en service du projet
+    Produire les certificats de fin de travaux
+
+- Lorsque la surveillance est complète, on dit que l'ingénieur est?
+    Résident
+
+- Le plan de surveillance des travaux énonce quoi?
+    Les activités de construction
+    Les méthodes utilisées pour la surveillance
+    La chronologie des activité de surveillance
+    Les responsabilité des intervanants
+    Les document à recevoir et à être produits par l'ingénieur surveillant
+
+- Quel est le principal élément du plan de surveillance?
+    Le mandat; définit l'envergure des travaux, documents de conception, procédure d'exécution de projet
+
+- Quelle est le contenu du plan de surveillance?
+    Reponsabilité de l'ingénieur
+    Le plan de gestion de la qualité
+    La liste des équipements à surveiller
+    Les procédures applicables à la surveillance
+    Le plan d'inspection
+    Les critères d'acceptation
+
+- Les processus de QA comprennent..?
+    La gestion des déficiences
+    La gestion des non-conformités
+    Les mesures corrective et préventives
+    L'amélioration continue
+    Les demandes d'équivalence
+
+    - Les tâches de l'ingénieur surveillant qui y sont reliées?
+        Analyser les documents contractuels
+        Élaborer le plan de qualité
+        Coordonner les activité du laboratoire
+        Effectuer les mesures et les observations
+        Interpréter les résultats d'analyses des contrôles
+        Rédiger les rapports quotidiens
+        Gérer la documentation
+        Promouvoir l'amélioration continue
+
+- Donne quelques examples de procédures applicables à la surveillance.
+    QA sur le chantier
+    Surveillance sur le chantier
+    Procédures de vérification et d'essai
+    La gestion des changements, des déficiences, de la documentation, etc
+    La fermeture du contrat
+    Les politiques du projet
+
+- Le plan d'inspection et d'essai inclut quoi?
+    La désignation de l'activité à contrôller
+    Les mesures à effectuer
+    Les responsables de chaque activité
+    La fréquence
+    Les critères d'acceptation
+    Quoi utiliser et comment
+    Las actions à mener si des problèmes surgissent
+
+- Les principaux types de contr^le portent sur?
+    Les permis
+    Les plans
+    Les exigences environnementales
+    Les certificats des matériaux
+    Réception et entreprosage des matériaux
+    Les rapports de laboratoire
+    Les produits
+    Les travaux
+
+
+
 EXPLOITATION
 ------------
 
