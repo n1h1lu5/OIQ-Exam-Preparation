@@ -617,7 +617,7 @@ SURVEILLANCE DE LA REALISATION DES TRAVAUX
     Quoi utiliser et comment
     Las actions à mener si des problèmes surgissent
 
-- Les principaux types de contr^le portent sur?
+- Les principaux types de contrôle portent sur?
     Les permis
     Les plans
     Les exigences environnementales
@@ -627,7 +627,79 @@ SURVEILLANCE DE LA REALISATION DES TRAVAUX
     Les produits
     Les travaux
 
+- Donne des examples de critère d'acceptation.
+    Caractéristique chimique
+    Qualité
+    Fonctionnalité
+    Performance
 
+- Qu'est-ce que le journal de bord?
+    Relevé quotidien des évènements liés aux activité de l'ingénieur surveillant.
+    Accumuler des renseignements sur le déroulement des travaux
+
+    Quelles sont les renseignements à y consigner?
+        Date
+        Nom du projet
+        Intervenants
+        Condition climatique
+        Activités surveillées
+
+    Est-ce considéré comme un document d'ingénérie?
+        Oui
+
+- Quelles étapes sont couvertes par le processus de surveillance?
+    Démarage
+    Exécution
+    Fermeture
+
+    N'inclus pas les activités de gestion de projet
+
+    - Qu'est-ce qui est inclu dans l'exécution du projet?
+        Gestion de la qualité
+        Gestion du contrat
+        Gestion des changements
+
+- Quand ce fait la planification de la surveillance?
+    Dès que l'ingénieur est mandaté pour surveiller les travaux
+        Il doit:
+            Prendre connaissance des exigences contractuelles
+            Déterminer les activités à accomplir pour réaliser son mandat
+            Rencontrer l'équipe de conception
+            Planifier les différentes activités de suivi
+
+- Que sont les exigences administratives?
+    Les renseignements non techniques
+
+- Qu'est-ce qui est défini dans le thème des généralités?
+    Les définitions
+    L'ordre de priorité des documents contractuels
+    Rôle de chaque intervenant
+    Les lois et règlements à respecter
+
+- Donne des documents qui sont requis pour la surveillance des travaux.
+    Échéancier du projet
+    Les permis
+    Les autorisations
+    Exigences générales
+    Exigences techniques
+
+    Les assurances
+    La licence d'entrepreneur en construction
+
+- Quelles sont les types d'activité qu'un surveillant peut faire?
+    Nature technique (approbation de documents)
+    Nature administrative (réunions)
+
+    Le mandat de surveillances sert à les déterminer
+
+- Que peut comprendre la liste des points de contrôle?
+    Les points d'arrêt pour les activités critiques où le surveillant doit être présent
+    Les points de vérification
+    Un point de revue, par exemple pour les rapports
+    Autres points de contrôles (ex: prise de pression)
+
+- Quelle est l'acitvité importante qui aide l'ingénieur surveillant à comprendre les documents techniques?
+    La rencontre avec l'équipe de conception
 
 EXPLOITATION
 ------------
