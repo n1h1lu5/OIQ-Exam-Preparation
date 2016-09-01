@@ -701,6 +701,80 @@ SURVEILLANCE DE LA REALISATION DES TRAVAUX
 - Quelle est l'acitvité importante qui aide l'ingénieur surveillant à comprendre les documents techniques?
     La rencontre avec l'équipe de conception
 
+- Pourquoi l'identification des éléments critiques ou problématiques sont important?
+    Permet au surveillant de déterminer les activité qui requièrent une surveillance plus étroite
+
+- Quels sont les paramètres qui influencent la probalité de défaut?
+    Les méthodes de travail (usuelle ou non)
+    Les étapes de construction (simples ou multiples)
+    Les matériaux utilisés
+
+    - Quelles sont les connaissances possible d'un défaut?
+        Danger sur l'environnement et sur la vie
+        Des coût économiques directs et indirects
+        Les coûts liés aux retards
+
+- Est-ce que l'équipe de surveillance peut être composé de non ingénieur?
+    Oui
+
+- Quelles informations doivent être contenus dans la directive de surveillance de chaque surveillant?
+    Le contrat à surveiller
+    Le plan d'inspection à utiliser
+    La fréquence de la surveillance
+    La périodicité des rapports
+    Les procédures de surveillance
+
+- Que communique le surveillant lors de la rencontre de départ de projet?
+    Le plan de surveillance à l'entrepreneur
+
+    C'est le moment le plus crucial de la surveillance des travaux. (Établis la relation entre le surveillant et l'entrepreneur)
+
+- Comment est réalisé la surveillance de la qualité des travaux?
+    En appliquant le plan d'inspection et d'essai qui est inclus dans le plan de surveillance
+
+- Est-ce que le surveillant doit donner une solution lorsqu'il y a une non conformité?
+    Non, mais il peut en proposer
+
+- Est-ce possible que le surveillant est le mandat d'administration du contrat?
+    Oui, mais ce n'est pas idéal
+
+- Quelles sont les raisons qui peuvent mener à une modification?
+    Une modification demandé par le maître d'ouvrage
+    Un imprévu de chantier
+    Une non-conformité
+    Une divergence ou une erreur dnas les plans ou les devis
+
+    - Quelles sont les approches pour facturer une modification?
+        Entrepreneur et maître d'ouvrage s'entendent sur un prix global
+        L'entrepreneur sera payé selon le prix réel des travaux
+        L'entrepreneur se garde le droit de présenter une réclamation
+
+- Comment est-ce que le surveillant vérifie que les travaux sont réellement terminés?
+    Évalue les documents de l'entrepreneur, des labos et autres
+    Assure que tous les documents techniques ont été soumis et conformes aux plans
+    Toutes les activités de surveillance ont été accomplies
+
+- Que doit contenir le rapport d'inspection (final)?
+    La portée de la surveillance effectuée
+    Les plans et dévis faisant l'objet du rapport
+    Les résultats des inspections
+
+- Est-ce que la surveillance doit être inclus dans la planification?
+    Oui
+    L'ingénieur surveillant ne devrait pas s'occuper de la gestion du projet
+
+- Qu'est-ce que l'attestation de conformité?
+    Affirme que des travaux respectent les documents contractuels.
+
+    Contient:
+        Liste des documents d'ingénérie ui ont servis aux travaux
+        Liste des travaux effectués
+        Activités et travaux surveillés
+        Observations de conformité
+        Divergences et leur impacts
+            Les décisions prises
+        La signature de l'ingénieur surveillant
+
 EXPLOITATION
 ------------
 
