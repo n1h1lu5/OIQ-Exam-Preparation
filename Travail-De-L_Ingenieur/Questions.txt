@@ -778,6 +778,25 @@ SURVEILLANCE DE LA REALISATION DES TRAVAUX
 EXPLOITATION
 ------------
 
+- Qu'est-ce que le but d'un projet?
+    L'exploitation
+
+- Qu'est-ce que l'ingénieur peut aider à améliorer pour l'explitation?
+    Variabilité
+    Robustesses
+    Fiabilité
+    Flexibilité
+    Environnement
+    Facteurs humains
+    Aspects légaux
+
+- Quelles sont les étapes de l'exploitation?
+    Mise en service
+    Exploitation
+    Soutien technique
+
+
+
 TENUE DE DOSSIERS
 -----------------
 
