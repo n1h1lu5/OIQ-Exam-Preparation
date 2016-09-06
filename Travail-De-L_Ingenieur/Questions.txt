@@ -795,10 +795,22 @@ EXPLOITATION
     Exploitation
     Soutien technique
 
+- Quelles sont les étapes de la mise en service?
+    Démarage
+    Approvisionnement et les équipements
+    Formation du personnel
 
+    - Quelles sont les thèmes qui regrouppent ces activité?
+        Procédures d'exploitation
+        Procédure d'entretien
+        Gestion de l'exploitation
+        Santé et sécurité
+        Protection de l'environnement
 
 TENUE DE DOSSIERS
 -----------------
+
+
 
 ENVIRONNEMENT ET DEVELOPPEMENT DURABLE
 --------------------------------------
