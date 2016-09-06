@@ -810,6 +810,34 @@ EXPLOITATION
 TENUE DE DOSSIERS
 -----------------
 
+- Quel est le réglement lié a la tenue de dossiers?
+    Réglement sur la tenue des dossiers et des cabinets de consultation des ingénieurs
+    Code de déontologie aussi
+
+    - Est-ce que ce réglement exige que l'ingénieur tienne un registre des mandats?
+        Oui
+
+    - Quel est la durée minimal de conservation des dossiers?
+        10 ans
+
+- Qu'est-ce que le GED?
+    Gestion électronique de documents
+        Un repository en fait
+
+- Quels sont les 4 moyen par lesquels un ingénieurs peut acquiérir des documents
+    Intégration de documents papier existants
+        Numérisation
+    Intégration de documents électroniques existants
+    Production de documents .kectroniques
+    Échange de documents électroniques
+
+- Est-il important d'assurer l'itégralité des documents?
+    Oui
+
+- Sous quelles conditions l'ingénieurs peut-il décider de conserver ou détruire des documents?
+    Possibilité de vérifier que l'information n'Est pas modifiée
+    ëtre en mesure de fournir une copie papier sur demande
+    Assurer la protections des renseignements personnels et confidentiels.
 
 
 ENVIRONNEMENT ET DEVELOPPEMENT DURABLE
