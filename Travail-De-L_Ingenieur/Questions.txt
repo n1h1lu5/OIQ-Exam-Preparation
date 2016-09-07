@@ -843,6 +843,48 @@ TENUE DE DOSSIERS
 ENVIRONNEMENT ET DEVELOPPEMENT DURABLE
 --------------------------------------
 
+- Est-ce que les obligations et les responsabilité civile de l'ingénieur visavis l'environnement sont les même que celles de tout individu?
+    Oui
+
+- À quoi peut mener une responsabilité pénale?
+    Amendes ou emprisonnement
+
+- À quoi peut mener la responsabilité civile?
+    Réparation des domages au client ou remboursement au ministère du dévloppement durable
+
+    - La resposabilité de l'ingénieur face à l'environnement est engagé par:
+        Le plan disciplinaire, le code
+        Le plan pénal, loi
+        Le plan civil, contrat
+
+- Qui décide les lois environnementales?
+    Provincial, fédéral, et réglements municipaux
+
+- Que recouvre la loi sur la qualité de l'environnement (LQE)?
+    Droit à la qualité de l'environnement et protection de celui-ci
+    Interdiction de rejeter un contaminant
+    Autorisations gouvernementales
+    Protection et réhabilitation des terrains
+
+    Il s'agit de la principale loi en matière d'environnement au Québec
+
+- Est-ce que quiconque peut contester la conformité des travaux face à l'environnement?
+    Oui
+
+    - Est-ce que l'ingénieur peut être responsable lorsqu'un déversement à lieu alors qu'il ne l'avait pas expressément autorisé?
+        Oui
+
+- À qui revient le pouvoir d'octroyer ou de refuser le certificat?
+    Le ministre
+
+- Est-ce possible de construire quelque chose sans avoir un certificat d'autorisation du gouvernement?
+    Non
+
+- Est-ce qu'un projet peut à la fois être soumis à l'obtention d'un certificat d'Autorisation et à l'évaluation des impacts sur l'environnement?
+    Oui
+
+
+
 GESTION DE PROJETS
 ------------------
 
