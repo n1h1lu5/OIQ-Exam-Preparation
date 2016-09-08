@@ -883,7 +883,67 @@ ENVIRONNEMENT ET DEVELOPPEMENT DURABLE
 - Est-ce qu'un projet peut à la fois être soumis à l'obtention d'un certificat d'Autorisation et à l'évaluation des impacts sur l'environnement?
     Oui
 
+- Quels sont les paramètres en lien avec une étude d'impacte? (Québec méridional)
+    Description du projet
+    Inventaire qualitatif et quantitatif des composantes de l'environnement pouvant être touchée
+    Énumération et évaluation des répercussions positives, négatives et résiduelles sur l'environnement
+    Les différentes options au projet
+    Énumération des mesures à prendre pour prévenir, réduire ou mitiger la détérioration de l'environnement
 
+- Est-ce qu'un avis doit être envoyé au citoyen?
+    Oui, dans les 15 jours, dans un quotidien de la région, de Montréal et de Québec
+
+- Qu'est-ce que le BAPE?
+    Bureau d'audiences publiques en environnement
+
+    - Est-ce que l'audience doit avoir absolument lieux?
+        Oui
+
+- Qui décide si le projet est acceptable?
+    Le gouvernement
+
+- À qui dpot être envoyé le rapport environnemental au nord et au sud du 55e parallèle?
+    Nord: Kativik
+    Sud: crie
+
+- Quelles sont les autorisations supplémentaires qui peuvent être nécessaires?
+    Attestation d'assainissement
+    Autorisation d'établissement d'aqueduc
+    Permis d'exploitation d'égout
+
+- Quand est-il nécescessaire d'avoir un permis du ministre?
+    Exploitation ou élmination de matière dangereuses
+    Entrepose ou utilise des matières dangereuses
+
+- Quelle est l'outil principale du régime de protection des terrains?
+    Le plan de réhabilitation
+
+    - Lorsqu'il y a changement d'utilisation d'un terrain, quelles obligations s'appliquent?
+        Étude de caractérisations
+        Préparation d'un plan de réhabilitation
+        Approbation du plan par le MDDELCC
+        Décontamination du terrain
+        Attestation des travaux
+        Publication d'un avis de décontamination
+
+    - Que prévois le réglement sur la protection et la réhabilitation des terrains?
+        Concentrations de contaminants à respecter
+        Ce qui est acceptable dans un secteur sans résidences
+
+- À quelle distance du terrain doit se trouver de l'eau potable pour que le contrôle de la qualité des eaux souterraines entre en vigueur?
+    Moins de 1km
+
+    - Quelle est le rôle de l'ingénieur ici?
+        Attester l'exactitude des données qui sont inscrites dans le programme de contrôle
+
+- Est-ce que le terme terrain inclus les eaux de surface et souterraine?
+    Oui
+
+- Est-ce qu'une ordonnace provenant du ministre envers un polueur peut avoir lieux si le déversement a eu lieux avant l'entré en vigueur du réglement?
+    Oui
+
+    - Est-ce que le gardient du terrain peut être attein proactivement?
+        Non, seulement après l'entré en vigueur du réglement, et peut même y échappé, s'il en est jugé adéquois
 
 GESTION DE PROJETS
 ------------------
