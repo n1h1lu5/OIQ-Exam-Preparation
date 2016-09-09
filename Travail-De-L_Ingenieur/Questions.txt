@@ -945,6 +945,60 @@ ENVIRONNEMENT ET DEVELOPPEMENT DURABLE
     - Est-ce que le gardient du terrain peut être attein proactivement?
         Non, seulement après l'entré en vigueur du réglement, et peut même y échappé, s'il en est jugé adéquois
 
+- Dans quel délais une étude de caractérisation du terrain doit être fait lors d'une cesse définitive de l'exertion d'une activité?
+    6 mois
+
+    C'est ce que l'on appel l'évaluation environnementale de sites
+
+- Quelles prélèvements d'eau sont subordonnés à la LQE?
+    À des fin de consommation humaine
+        Au moyen d'un fossé, d'un drain pour récupérer les eaux de ruisellement
+        Prélévement par installation permanente
+
+    - Quel est le rôle de l'ingénieur?
+        Tous les rapports et études doivent être signé soit par un ingénieur, soit par un géologue
+        Plan et dévis signé par un ingénieur
+
+- Pour combien de temps une autorisation est elle valide?
+    10 ans
+
+- Est-ce qu'il faut une autorisation du MDDELCC avant d'Entreprendre des travaux d'aqueduc et d'égout?
+    Oui
+
+- Qui atteste que les travaux sont conformes?
+    L'ingénieur
+
+    Le maître d'ouvrage doit garder l'Attestation pendant 10 ans
+
+- Que contient le plan quinquennal d'aqueduc et d'égout?
+    Les informations relatives à la planification de l'occupation du territoire
+    Localisation d'anciens lieux d'élimination
+    Entente avec le ministre pour la conservation des millieux humides
+    Les plans des réseaux actuel et projeté
+    Débits et pressions
+
+    Ce plan doit être signé par un ingénieur
+
+- Est-ce que les attestations d'assainissement en millieu industriel doivent être signée par un ingénieur?
+    Oui
+
+- En ce qui concerne les déchets biomédicaux, qu'est-ce qui demande une attestaion d'un ingénieur?
+    L'entreposage
+    Le système de transport
+
+- Qu'est-ce qu'un centre de transfert de sols contaminés?
+    Lieu de stocage temporaire des sols contaminé avant d'être décontaminé totalement ou partiellement
+
+- Est-ce qu'il faut d'abord être une matière dangereuse avant d'être une matière dangereuse résiduelle?
+    Oui
+
+- Que faut-il faire lors de rejet accidentels d'une matière dangereuse?
+    Cesser le déversement
+    Aviser le ministre
+    Récupérer ma matière
+    Enlever toute matière contaminée
+    
+
 GESTION DE PROJETS
 ------------------
 
