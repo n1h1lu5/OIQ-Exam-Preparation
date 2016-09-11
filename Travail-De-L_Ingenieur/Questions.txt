@@ -1101,7 +1101,77 @@ GESTION DE PROJETS
     Phase de réalisation
     Phase de clôture
 
+- Qu'est-ce que le cycle de vie d'un projet selon ProjectWare?
+    Definition d'un problème
+    Sélection de la meilleur solution
+    Développement des plans
+    Implémentation de la solution
+    Opération de la solution
 
+- Cycles de vie selon Wysocki, quels sont les 3 et leurs composantes?
+    Méthode traditionnelle
+        Définition de l'ampleur du projet
+        Développer le plan détaillé
+        Lancer le plan
+        Suivre le progrès du projet
+        Fermer le projet
+
+    Méthode adaptative
+        Ampleur de la version
+        Plan de l'itération
+        Réalisation de l'itération
+        Point de contrôle du client (GoTo 3)
+        Revue Post-Version
+    Méthode extrème
+        Initier
+        Spéculer
+        Incuber
+        Réviser
+
+- Quels sont les 3 types d'environnement auquels un ingénieurs peu faire face?
+    Environnement culturel et social
+    Environnement international et politique
+    Environnement physique
+
+- Donne un exemple de structure de découpage des risques.
+    Technique
+        Exigence
+        Techonologie
+    Externe
+        Marché
+        Client
+    Organisationnel
+        Ressources
+        Financement
+    Management
+        Estimation
+        Maîtrise
+
+- Différence entre la mesure quantitative et qualitative du risque?
+    Quantitative: Évalue la gravité du risque et la probabilité de modification au projet
+    Qualitative: Mise en place de mesures de probabilité du risque
+
+- Quels sont les 4 stratégies de réponse aux risque?
+    Le rejet
+    Le transfert des risques
+    La réduction des risques
+    L'acceptation
+
+- Qu'est-ce que le MIP?
+    Mémoire d'identification du projet
+        Un document de présentation au client et d'approbation
+
+        - Quelles sont les 6 parties nécessaires?
+            L'origine du projet
+                Situation actuelle
+                Situation désirée
+            La formulation préliminaire du projet
+                Analyse de l'Environnement
+                Analyse des parties prenantes
+            La synthèse de l'étude de préfaisabilité
+            Les stratégies de gestion retenues
+            Les conclusions et les recommandations
+            Les annexes
 
 GESTION EQUIPE ET LE DROIT DU TRAVAIL
 -------------------------------------
