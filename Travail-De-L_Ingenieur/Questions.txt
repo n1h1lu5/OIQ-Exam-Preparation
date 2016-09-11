@@ -997,7 +997,77 @@ ENVIRONNEMENT ET DEVELOPPEMENT DURABLE
     Aviser le ministre
     Récupérer ma matière
     Enlever toute matière contaminée
-    
+
+- La loi sur le régime des eaux régit quoi?
+    L'utilisation des forces hydroliques
+    Aliénation de rives
+    Utilisation des cours d'eau
+    Flottage du bois
+
+        Doivent généralement être approuvé par le gouvernement
+
+- Dans quel cas le permis de prospection n'est pas nécessaire?
+    Un terrain qui fait l'objet d'un claim
+
+- Que faut-il avoir avant exploiter une mine?
+    Un bail minier, bon pour 20 ans, renouvelable 3x 10 ans
+
+- Qu'est-ce que le levé géophysique?
+    Délivré par le MERN, pour recherche de pétrole, gaz naturel ou saumure
+
+    C'est le même organisme qui décerne les permis à cet effet
+
+- La période d'essai pou l'utilisation d'un réservoir souterrain ne doit pas dépasser combien de temps?
+    Un an
+
+- Quel type d'ingénieur doit certifié les données pour le bail d'exploitation de pétrole?
+    Ingénieur géologue pétrolier
+
+- À chaque année de bail d'exploitation de saumure,  un relevé doit être effectué, que doit contenir le relevé?
+    Certifié par un ingénieur géologue
+    Présenté sur une carte cadastrale ou topographique
+    Transmis au ministre avant la fin de chaque année du bail
+
+- Quels sont les 2 réglements encandrant les mines?
+    Réglement sur le pétrole, le gaz naturel et les réservoirs souterrains
+    Réglement sur les substances minérales autres que le pétrole et les 2 autres
+
+- La loi fédérale de 1999 de protection de l'environnement applique quoi?
+    Le principe du développement durable
+    La prévention de la pollution
+    Le principe du pollueur-payeeur
+    Principe de précaution
+
+    Cette loi couvre quoi?
+        Participation du public
+        Substances toxiques
+        Déchets bio
+
+- Nomme un réglement relatif aux substances toxiques
+    Réglement sur certaine substances toxiques interdites
+
+- Quels sont les objectifs de la loi canadienne sur l'évaluation environnementale? (2012)
+    Contrevérifier les projets qui peuvent avoir un impact sur l'environnement
+    Le public a la possibilité de participer à l'évaluation environnementale
+    Liste d'inclusion et d'exclusion de certains projets
+
+- Il y a une ville qui peut elle même appliquer le réglement relatif à l'assainissement de l'air, laquelle?
+    Montréal, sinon c'esst le MDDELCC
+
+- Quels sont les 3 pilliers du développement durable?
+    Aspect économique
+    Gestion de l'Environnement
+    Préoccupation à l'égart des communauté
+
+- Qu'est-ce que le développement durable?
+    Répondre aux besoins du présent sans compremettre les capacités des générations futures de répondre aux leurs
+
+- Quest-ce que le 3RV-E?
+    La réduction à la source
+    Réemplois
+    Recyclage
+    Valorisation
+    Élimination
 
 GESTION DE PROJETS
 ------------------
