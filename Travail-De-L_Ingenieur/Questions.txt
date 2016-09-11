@@ -1072,6 +1072,37 @@ ENVIRONNEMENT ET DEVELOPPEMENT DURABLE
 GESTION DE PROJETS
 ------------------
 
+- Les projets sont assujetti à quels facteurs?
+    Un cycle de vie dynamique
+    De nombreux participants
+    Un contexte d'incertitude environnementale, technique, etc
+
+- Quels sont les 4 types de contraintes d'un client?
+    Les normes de performances
+    Les normes de qualités
+    Les délais de livraison
+    Les coûts du projet
+
+- À quoi ressemble le triangle des comrpomis de la gestion de projet?
+    Temps, coût, disponibilité des ressources et au centre: étendue et qualité
+
+- Quels sont les facteurs de succès d'un projet selon Pinto et Slevin?
+    But et objectifs clairs
+    Soutien de la haute direction
+    Plan et échéancier
+    Engagement du client
+    Personnel prenant part au projet
+    Communication
+    Troubleshooting
+
+- Quels sont les phases du cycle de vie d'un projet?
+    Phase d'identification
+    Phase de définition
+    Phase de réalisation
+    Phase de clôture
+
+
+
 GESTION EQUIPE ET LE DROIT DU TRAVAIL
 -------------------------------------
 
