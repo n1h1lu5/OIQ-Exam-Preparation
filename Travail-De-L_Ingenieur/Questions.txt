@@ -1239,7 +1239,18 @@ GESTION EQUIPE ET LE DROIT DU TRAVAIL
     Code du travail
     Loi sur les normes du travail
 
+- Est-ce qu'un salarié à le droit de refuser d'exécuter un travail?
+    Oui, s'il a des motifs résonnables de croire que c'Est dangereux
 
+- L'employeur doit envoyer un rapport écrit à la CSST dans les 24h dans quels cas?
+    Le décès d'un travailleur
+    Perte d'un memebre
+    Blessures sur plusieurs travailleurs qui ne peuvent plus travailler pour un jour ou plus
+    Domages matériels de 150 000$ ou plus
+
+- Est-ce que l'on peut être poursuivie pour harcèlement sexuel?
+    Oui
 
 GESTION DES RISQUES
 -------------------
+
