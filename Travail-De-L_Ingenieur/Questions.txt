@@ -1176,5 +1176,70 @@ GESTION DE PROJETS
 GESTION EQUIPE ET LE DROIT DU TRAVAIL
 -------------------------------------
 
+- Une équipe de travail est performantes lorsqu'elle répond à quel principes?
+    Bonne cohésion de groupe
+    Atmosphère de travail agréable
+    Connaissance des forces et faiblesses des membres
+    Vision commune
+    Répartition des tâche juste et équitable
+    Volonté de régler rapidement les conflits
+    Capacité à réagir aux changements
+
+- Quel est le cadre de chaque employé?
+    Une définition des tâches et des responsabilité
+    Zone de contrôle dans son travail
+    Horraire de travail
+    Obligations par rapport aux attentes du supérieur
+    La qualité des résultats attendus de son travail
+
+- Comment encadre-t-on efficacement une équipe d'employés?
+    Fixer des objectifs précis
+    Communiquer régulièrement avec les membres de l'équipe
+    Outils adéquat à disposition
+    Offrir des formation d'Appoint
+    Donner du soutien
+    Donner l'exemple
+    Formuler des commentaire de façon régulière
+
+- Quels critères doivent être pris en considération pour formuler des objectifs d'équipe?
+    Objectifs réalistes, clairs, précis, mesurables
+    Perçu comme un défi
+    Formulation d'un objectif est soumise à des règles précises de rédaction
+
+- Pourquoi faut-il des objectifs dans une équipe de travail?
+    La formulation d'objectifs permet de déterminer:
+        Les besoins prioritaires
+        Les tâches à accomplir
+        Les échéanciers
+        Les attentes mutuelles
+        Vérifier le progret
+        Mesurer le taux de réussite
+
+- Quelles sont les étapes à suivre pour formuler des objectifs adéquats?
+    Réflexion et questionnement
+    Formulation de l'objectif
+    Les éléments à préciser une fois les objectifs formulés
+
+- Quelles sont les normes minimales de travail?
+    Salaire minimum
+    Interdiction de faire des retenues sur le salaire sans l'Autorisation du salarié
+    Rémunération à taux et demi après 40 heures
+    Droit à minimum 7 jours férié payé par années
+    Vacances
+    Interdiction de mise à la retraite
+    Préavis en cas de cessation d'emplois
+
+- Quels sont les 3 éléments principaux d'un contrat de travail?
+    Prestation de travail
+    Rémunération
+    Lien de subordination
+
+- Par quelles lois le droit de congédiments est-il limité pour l'employeur?
+    Charte des droits et libertés
+    Code du travail
+    Loi sur les normes du travail
+
+
+
 GESTION DES RISQUES
 -------------------
