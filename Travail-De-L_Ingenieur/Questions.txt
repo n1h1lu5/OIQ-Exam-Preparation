@@ -1254,3 +1254,33 @@ GESTION EQUIPE ET LE DROIT DU TRAVAIL
 GESTION DES RISQUES
 -------------------
 
+- Quels sont les facteurs qui contribuent à la necessité d'une gestion plus rigoureuse des risques?
+    Rapidité de développement de nouvelles technologies
+    Nature des nouvelles technologies
+    Le gigantisme des installation
+    Multiplication des lois
+    Contraintes bedgétaires et temporelles
+
+- Est-ce que les causes des accidents majeurs sont différentes des accidents mineurs?
+    Non
+
+- Quels sont les 2 façon pour éviter qu'un accident ce produise?
+    Minimiser les conséquences
+    Influencer les facteurs contributifs
+
+    Prévention et intervention
+
+- Qui enquêtes lorsqu'un travailleeur meur?
+    Le coroner
+
+- Est-ce que le risque est un danger?
+    Non, il naît de l'existance des dangers
+
+- Quels osnt les attributs d'un risques susceptibles de moduler son acceptation?
+    Le caractère volontaire (j'accepte de m'exposer au risque)
+    Son caractère connu ou inconnu
+    Les conséquences immédiates
+    Le caractère juste (ceux qui crée le risque y sont exposé)
+    Son potentiel catastrophique
+    La confiance ou non dans l'évaluation du risque faite par les scientifiques
+
