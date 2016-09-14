@@ -1284,3 +1284,47 @@ GESTION DES RISQUES
     Son potentiel catastrophique
     La confiance ou non dans l'évaluation du risque faite par les scientifiques
 
+- Est-ce que le risque est dans la nature de l'homme?
+    Oui
+
+    Sans prise de risque, il n'y aurait aucun progrès
+
+- Faut-il développer une culture de sécurité ou une culture de risque?
+    Culture de sécurité
+
+    Prendre concience qu'il n'est pas possible de tout savoir
+
+- Qu'est-ce que le danger?
+    Source d préjudice potentiel ou situation comportant un préjudice potentiel
+
+- Donne des exemples de préjudices potentiels.
+    Substances chimiques
+    Tempête de verglas
+    Fourdre
+    Orages
+    Erreurs de code informatique, virus
+    Bris de l'équipement
+
+- Il faut toujours commencer l'analyse du risque par quoi?
+    Les dangers
+
+- Quels sont les parties de la démarche d'Appréciation des risques?
+    Identification des risques
+    Analyse des risques
+    Évaluation des risques
+
+    Doit être fait de manière itérative
+
+    - Le processus détaillé est composé de 12 étapes distinctes, liste les.
+        Définir les objectifs et la porté de l'étude
+        Choisir la méthode d'analyse la plus appropriée
+        Constituer une équipe d'analyse multidisciplinaire
+        Révolter et préparer l'information requise
+        Définir les critères d'analyse
+        Identifier les dangers
+        Analyser les risques
+        Évaluer l'acceptabilité des risques
+        Recommander des barrières de sécurité additionnelles
+        Évaluer le risque résidiuel
+        Documenter l'analyse
+        Mettre en oeuvre les recommandations
