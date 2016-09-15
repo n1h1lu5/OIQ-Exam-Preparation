@@ -138,3 +138,33 @@ ENCADREMENT LEGAL DES INGENIEURS
 
 ORDRE DES INGENIEURS DU QUEBEC
 ------------------------------
+
+- Quel est le quorum d'une AG?
+    50
+
+    - Et du CA?
+        La majorité des membres
+
+- Est-ce que le président et les administrateurs doivent être ing?
+    Oui
+
+    Les administrateurs sont élus par région, pour représentation régionale
+
+- Que contrôle le CA?
+    Contrôle de l'admission à la profession
+        Délivrance du permis
+    Contrôle de l'exercice de la profession
+        Adoption de réglements
+        Applicaiton des lois
+
+- Donne des sujets régis par réglement par le CA.
+    Équivalence de diplome
+    Autres conditions de délivrance de permis
+    Permis spéciaux
+    Classes de spécialités au sein de la profession
+
+- Quel est le processus d'adoption d'un réglement?
+    CA adopte le réglement
+        Examen de l'office
+            Approbation du gouvernement
+
