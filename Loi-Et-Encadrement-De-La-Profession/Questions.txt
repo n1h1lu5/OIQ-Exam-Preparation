@@ -168,3 +168,184 @@ ORDRE DES INGENIEURS DU QUEBEC
         Examen de l'office
             Approbation du gouvernement
 
+- En cas d'égalité, qui a la balance dans le CA et le CE?
+    Le président
+
+- Qui nomme le secretaire de l'ordre?
+    Le CA
+
+- Quel est le rôle de la permanence de l'ordre?
+    Mise en oeuvre et suivi de sdécision du CA et du CE
+
+- Quels sont les comités statuaires de l'ordre?
+    Inspection professionnelle
+    Conseil de discipline
+    Révision
+    Examinateurs
+        Appliquer critères d'admissibilité (examnes si non reconnu)
+    Surveillance des élections
+
+- Quels sont les 3 objectifs principaux de scomités régionaux?
+    Promotion de la profession
+    Développement professionnel
+    Réseautage
+
+- Quels sont les 4 grands mécanismes de contrôle pour la protection du public?
+    Adminssion à l'exercice de la profession
+    Contrôle de la pratique professionnelle
+    Contrôle disciplinaire
+    Surveillance des actes illégaux
+
+ADMISSION A L'EXERCICE DE LA PROFESSION
+---------------------------------------
+
+- Dans quel cas le CA délivre des permis d'ingénieur temporaire?
+    Si ne parle pas français, durée maximale de un ans
+
+ASSURANCE RESPONSABILITÉ PROFESSIONNELLE
+----------------------------------------
+
+- Faut-il une assurance professionnel suplémentaire en pratique privé? (pratique qui n'est paspour son employeur, ex: génie conseil, à leur compte, etc)
+    Oui, elle est offerte par l'ordre
+
+    Peut appartenir à l'ingénieur ou à la société qui l'embauche
+
+    La couverture est bonne pendant 5 ans après le dernier acte ou la faillite de la compagnie
+
+- Le régime collectif de base d'Assurance couvre quoi?
+    La pratique générale
+    La pratique occasionnelle
+    La pratique privée occasionnelle (honoraires inférieurs à 10 000$ par ans (31 mars-31 mars))
+    250 000$ par réclamation et 500 000$ par projet
+
+CONTROLE DE LA PRATIQUE PROFESIONNELLE
+--------------------------------------
+
+- Quelle est la mission du commité d'inspection professionnelle?
+    Effectuer une surveillance de l'exercice de la profession par les membres de l'ordre
+    Inspecter la compétence profesionnelle des membres, par exemple, à la suite d'une pleinte
+
+- Quel est l'expériences minimale pour entrer dans le CIP?
+    5 ans
+
+- Quels sont les pouvoirs du CIP?
+    Obliger l'ingénieur à suivre un stage ou un cours de perfectionnement
+    Limiter son droit d'exercer jusqu'à ce qu'il satisfait ces obligations
+    Radier l'ingénieur ou limiter défnitivement son droit d'exercice, en cas dMéchec répété du cours ou du stage
+
+- Est-ce qu'un membre de l'ordre peut refuser l'inspection sous prétexte qu'il ne fait pas d'ingénierie?
+    Non
+
+- Quels sont les principaux objectifs de l'inspection professionnelle?
+    Examiner la pratique de l'ingénieur
+    Relever toute déficience dans sa pratique professionnelle
+    Sensibiliser l'ingénieur à ses devoirs
+
+- Quelles sont les étapes d'une inspection professionnel?
+    Sélection des memebres à inspecter
+    Contact
+    Envoie de l'avis d'inspection et autres documents
+    Inspection
+        Collecte de renseignements
+        Inspection des dossiers
+    État d'inspection
+        ÉValuation globale de la pratique de l'ingénieur
+        Degré de conformité à la réglementation
+        Recommendations
+    Clôture
+    Activité de suivi
+
+CONTROLE DISCIPLINAIRE
+----------------------
+
+- Est-ce qu'un ingénieur junior peut faire l'objet d'un contrôle disciplinaire?
+    Oui
+
+- Qui peut demander un enquête?
+    N'importe qui qui croit qu'il y a eu un manquement de la part d'in ingénieur
+
+- Quels est le travail et le pouvoir du syndic?
+    Décide si une nequête est nécessaire
+    Peut demander l'aide d'un expert
+    Suite à l'analyse, décide si une plainte doit être
+    posé au conseil de discipline
+        Explique au demandeur pourquoi il n'est pas allé de l'avant, si jamais
+
+        Informe l'ingénieur du progrès dans les 90 jours après la plainte, et tous les 60 jours par la suite
+
+- Une enquête prend généralement combien de temps?
+    Plusieurs mois
+    Tout information demeure confidentielle jusqu'au moment de déposition de la pleinte
+
+- La concilliation est elle possible?
+    Oui, si les deux parties s'entende et que les faits ne sont pas trop grave
+
+- Quels sont les 4 volets d'activités du bureau du syndic?
+    Prévenir
+        Avis, cours
+    Informer
+    Enquêter
+        Peut enquêter sur des anciens membres
+    Poursuivre
+
+- Est-ce que quelqu'un qui dénonce un ingénieur peut être poursuivi par la suite?
+    Non, mais si la plainte est mal fondé, elle pourrait avoir à payé les frais
+
+- Que faut-il pour être président du conseil disciplinaire?
+    10 ans d'expérience en tant qu'avocat
+    Être élu par le gouvernement
+
+    - Lors d'une présentation au conseil disciplinaire, est-ce qu'un ingénieur peut invoquer son obligation de respecter le secret professionnel?
+        Non
+
+- Donne des exemples de sanctions.
+    Réprimande
+    Radiation permanente ou temporaire
+    Amende de 1000 à 12 500
+    Révocation du permis
+    Limitation du droit d'exercer
+
+- Est-ce qu'il peut avoir appel?
+    Oui, devant le Tribunal des professions
+
+- Est-ce possible pour le demandeur de réclamer de l'argent?
+    Non, selement devant les tribunaux, le bureau du syndic s'occupe seulement de discipliner les membres de l'ordre
+
+- À quoi sert le commité de révision?
+    Donner un avis sur la décision d'un syndic de ne pas porter plainte devant le Conseil de discipline
+
+    - Ces décisions soit:
+        Il n'y a pas lieu de porter plainte devant le conseil de discipline
+        Suggérer au syndic de compléter son enquête
+
+- Est-ce possible pour un ingénieur de demander à être réinscrit au tableau avant la fin de sa sanction?
+    Oui, mais une seule fois, même si elle est rejeté
+
+- Dans quels cas le secrétaire du commité de discipline communique au membre une décision?
+    La radiation provisoir
+    Révocation de son permis
+    Limitation ou suspension de son droit d'exercice
+
+SURVEILLANCE DES ACTES ILLEGAUX
+-------------------------------
+
+- Est-ce que l'on commet un infraction si on utilise des plans non signé qui auraient du l'être?
+    Oui
+
+- Pour quelles raisons l'ordre peut intenter des poursuites pénales?
+    Un exercice illégal de la profession
+    Usurpation du titre réservé
+    Infraction prévue dans la loi sur les ingénieurs ou dans le code des professions
+
+    - En cas de récidive?
+        Injonction de la cours suprème
+
+AUTRES MESURES DE CONTROLE
+--------------------------
+
+- Qu'arrive-t-il aux dossier d'un ingénieur lorsqu'il arrête d'exercer?
+    Il doit trouver un cessionnaire, ou au secrétaire de l'ordre, pour grader les dossiers pendant au moins 10 ans
+
+- Qu'arrive-t-il lors d'une cessation provisoir?
+    Il faut trouver un gardien provisoir pour les dossiers, ou le secrétaire de l'ordre
+
