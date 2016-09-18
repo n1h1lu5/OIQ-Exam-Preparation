@@ -349,3 +349,11 @@ AUTRES MESURES DE CONTROLE
 - Qu'arrive-t-il lors d'une cessation provisoir?
     Il faut trouver un gardien provisoir pour les dossiers, ou le secrétaire de l'ordre
 
+- Est-ce que l'ordre a le droit de radier un membre qui refuse de se porter à un examen médical?
+    Oui
+
+- Dans quel délai un membre doit aviser le secrétaire de l'ordre qu'il fait l'objet d'une décision disciplinaire?
+    10 jours
+
+- S'il y a eu pardon, est-ce qu'il faut aviser l'ordre?
+    Non
