@@ -1,0 +1,90 @@
+LIGNES DIRECTRICES CONCERNANT LES DOCUMENTS D'INGENIERIE
+--------------------------------------------------------
+
+- Défini les termes suivants.
+    Addenda
+        Document d'ingénierie par lequel le client avise les soumissionnaires éventuels que les documents de soumission sont modifiés durant la période de soumission
+    Authentification d'un document d'ingénierie
+        Application des marques de l'ingénieur
+    Cahier des charges
+        documents définissant les caractérisque de base d'un produit à réaliser
+    Devis
+        Description qualitative détaillée des matériaux, équipements, systèmes et autres
+    Règle de l'art
+        Ensemble de connaissances techniques et de règles nécessaire à la pratique professionnelle prudente et diligente
+
+- Est-ce que le sceau original appartient à l'ordre?
+    Oui
+
+- Est-ce que la signature devrait couvrir une partie du sceau?
+    Oui
+
+- À quoi sert le sceau électronique?
+    Authentifier un document technologique avec l'image numérique du sceau
+    Confirmer l'identité du signataire
+    Certifier que le signataire est bien inscrit au tableau de l'ordre
+
+- Que devrait contenir les cartouches de plan d'ingénirie?
+    Le sceau et la signature de tous les ingénieurs qui ont participé à la préparation du plan
+    Le nom de l'organisation
+    Nom du projet
+    Titre du plan
+    Numéro du plan
+    Date du plan
+    Numéro de révision
+    Notes limitatives
+    La finalité (pour construction, permis, soumission, etc)
+
+- Que faut-il écrire pour authentifier les devis?
+    Sceau
+    Signature
+    Date
+
+- Que faut-il écrire pour authentifier les autres documents d'ingénirie?
+    Nom
+    Signature
+    Titre
+    Numéro de membre
+    Date
+
+- Si un document n'est pas destiné pour la construction, faut-il l'indéquer?
+    Oui
+
+    Et vice versa
+
+- Si les documents sont préparés au Quebec mais sont utilisé à l'extérieur, faut-il les identifers comme ci-haut?
+    Oui
+
+    - Et si c'est préparé et utilisé à l'extérieur du Québec?
+        Non
+
+- Faut-il un registre des modifications?
+    Oui
+
+- Quels sont les 3 cas types de vérification?
+    Avant l'authentification d'un document par son auteur (QA)
+    Après l'authentification, QA du client
+    Vérification d'un document établie par rapport à des exigences contractuelles, administrative ou légales
+
+    - Est-il possible d'apposer un tampon de vérification?
+        Oui
+
+        - Que devrait-il contenir?
+            Nom de l'organisation
+            Titre: vérification
+            Nature de la vérification
+            Date
+            Constatations
+            Recommendations
+            Nom de l'ingénieur et numéro de membre
+            Signature
+
+- Quels sont les étapes de vérification?
+    Obtenir un mandat précis et clair
+    S'assurer qu'il possède les connaissance nécessaire
+    Vérification
+    Préparer et authentifier un avis écrit
+
+    - Est-ce qu'un vérificateur doit dénoncer les annomalie qui sont en dehor de sa vérification?
+        Oui
+
