@@ -88,3 +88,110 @@ LIGNES DIRECTRICES CONCERNANT LES DOCUMENTS D'INGENIERIE
     - Est-ce qu'un vérificateur doit dénoncer les annomalie qui sont en dehor de sa vérification?
         Oui
 
+- Est-il possible qu'il y est une approbation administrative des documents?
+    Oui, mais n'A aucun lien avec l'acte professionnel
+
+SIGNATURE NUMERIQUE
+-------------------
+
+- Qui est le fournisseur pour les signature numérique de l'ordre?
+    Notarius
+        Cryptographie asymétrique
+
+- Que contient le cerficat associé à chaque document signé?
+    Nom et numéro de membre
+    Titre professionnel
+    Clé publique
+    Période de validité et le numéro de série du certificat
+    Addresse courriel
+
+- Quelles sont les validations requise pour la demande de signature numérique à l'ordre?
+    Validation sur l'identité à poste canada, avec 2 pièces d'identité
+    Statut professionnel
+
+PROPRIÉTÉ INTELLECTUELLE
+------------------------
+
+- Sous quels formes peut on trouver la PI?
+    Brevets
+    Designs industriels
+    Marques de commerce
+    Droits d'auteur
+
+- À quoi peut servir les BD de brevets?
+    Identifier les tendances et les innovations dans un domaine
+    Découvrir de nouveaux types de produits
+    Trouver une solution
+    Identifier collaborateurs et compétiteurs
+
+- Quels sont les étapes de la gestion de la PI?
+    Création
+    Protection
+    Commercialisation
+    Suivi et gestion de la PI
+
+- Quel protection apporte le brevet?
+    Empêcher d'autres personnes de fabriquer, construire, exploiter et vendre son invention
+
+    - Quel brevets sont acceptable?
+        Ceux qui respecte la loi sur les brevets
+                Il ne faut pas que l'invention soit rendu publique, sauf si moins d'un an
+
+                Ne peux pas breveter de la théorie
+
+- Est-ce le premier inventeur ou le premier qui dépose la demande qui aura le brevet?
+    Au canada, la première demande
+
+- Quels sont les étapes de demande d'un brevet?
+    Mise au point de l'invention
+    Recherche préliminaire pour savoir s'il y a déjà un brevet existant
+    Préparation et dépot d'une demande
+    L'examinateur de l'OPIC refuse, accepte, ou demande des modifications
+    Modifications
+    Révision finale par l'examinateur
+    Appel possible
+        Appel possible devant la cour fédérale du canada, puis la cours suprème
+
+- Que peut faire le détenteur d'un brevet lorsque quelcun l'utilise illégalement?
+    Poursuivre en dommages-intérêts
+
+- À quoi sert l'enregistrement de dessins industriel?
+    Protéger contre la contrefaçon
+
+- Est-ce que l'enregistrement d'une marque de commerce est obligatoire?
+    Non
+
+- Quelles sont les limitations pour enregistrer une marque de commerce?
+    Nom complet ou de famille
+    Mot qui donne une description claire
+    Une description fausse ou trompeuse
+
+    - Pour combien de temps?
+        15 ans, renouvelable
+
+- Quels sont les étapes d'enregistrement d'une marque de commerce?
+    Recherche préliminaire pour voir si le nom est déjà pris
+    Préparation et dépôt d'une demande
+    Examen de la demande par l'OPIC
+    Si rejet, appel cour fédérale
+    Si approbation, publication dans le journal des marque de commerce
+    Possibilité d'opposition, par des tiers
+
+- Quel sont les indications de marque de commerce?
+    MD en français, * en anglais
+        Si non enregistré: MC ou TM
+
+- Qui peut être titulaire du droit d'auteur?
+    L'auteur de l'oeuvre
+    L'employeur
+    Sa Majesté
+
+- Pendant combien de temps le droit d'auteur est il en vigueur?
+    La vie de l'auteur + 50 ans (succession)
+
+    Valide dans tous les pays signataire de la convention de berne et les membre de l'OMC
+
+    (petit c dans un cercle)
+
+- En cas de poursuite pour droit d'auteur, peut on demander les domages-intérêts réel?
+    Oui
