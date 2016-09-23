@@ -90,8 +90,14 @@ GUIDE DE DEVELOPPEMENT DES COMPETENCES DE L'INGENIEUR
                 Établir les priorités
                 Recherche préliminaire sur les habilités à développer (trouver les activité pour avoir les habilité nécessaires pour atteindre les objectifs)
             Planifier les activités
-        Suivre le plan
+                Rechercher de sinformations sur les activités
+                Choisir les activité
+                Faire approuver votre plan de développement
+        Suivi
+            Preuve d'accomplissement
         Faire le bilan
+            Faire le point sur l'impact des activités par rapport aux objectifs
+            Actualiser le plan de développement pour la prochaine année
 
     - Quels sont les 3 outils du guide?
         Cycle annuelle de gestion du développement des compétences
@@ -101,10 +107,30 @@ GUIDE DE DEVELOPPEMENT DES COMPETENCES DE L'INGENIEUR
 - Quelles sont les compétences communes aux ingénieurs?
     Assumer son statut professionnel
     Résoudre des problèmes faisant appel aux sciences et règles de l'art
+        Connaissance en science, spécifique, juridique, gestion des risques, gestion de projet, ...
     Communiquer efficacement
     Assurer la qualité de ses travaux
     Gérer les risques
     Gérer des activités
 
+- Un objectif de développement de compétence se compose de quels éléments?
+    Connaissance requise
+    Niveau d'habileté
+    Conditions d'application
 
+- Quels sont les 3 possibilités des impacts d'une activité?
+    Confirmer la pertinence de ma pratique actuelle
+    Permis d'améliorer mes méthodes de travail
+    Permis de réaliser une nouvelle tâche
 
+- Quels sont les trois scénario types où un ingénieur est appelé à intervenir?
+    Trouver une solution à un problème ponctuel
+    Recommender ou prendre une décision
+    Contribuer à la conception d'un système
+
+REGLEMENT SUR LA FORMATION CONTINUE OBLIGATOIRE DES INGENIEURS
+--------------------------------------------------------------
+
+- L'objectif de la formation continue?
+    Mettre à jour les connaissances
+    Combler les lacunes constatés par l'ordre
